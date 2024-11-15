@@ -41,14 +41,14 @@ The **Car Management Application** is a full-stack web application built using t
 
 
 ## Delpoyed Link :
-Frontend : https://car-catalog-my-garage-frontend.vercel.app/login
+Frontend : https://car-catalog-my-garage-frontend-ashen.vercel.app/
 
-Backend : https://car-catalog-my-garage-backend.vercel.app/
+Backend : https://car-catalog-my-garage-backend-zeta.vercel.app/
 ### Clone the Repository
 ```bash
-git clone https://github.com/satyamjaysawal/CarCatalog_MyGarage-backend.git
+git clone https://github.com/Shivam1456/CarCatalog_MyGarage-backend.git
 
-git clone https://github.com/satyamjaysawal/CarCatalog_MyGarage-Frontend.git
+git clone https://github.com/Shivam1456/CarCatalog_MyGarage-Frontend.git
 cd car-management-app
 ```
 
